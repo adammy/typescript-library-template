@@ -1,7 +1,7 @@
 {
   "name": "typescript-node-template",
   "version": "1.0.0",
-  "description": "Starter template for a node library built with Typescript.",
+  "description": "Starter template for a Node library built with Typescript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
