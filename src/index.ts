@@ -1,1 +1,1 @@
-export { cinema } from './cinema';
+export { sample } from './sample';
